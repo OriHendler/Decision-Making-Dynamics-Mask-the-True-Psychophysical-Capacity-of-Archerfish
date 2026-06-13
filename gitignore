@@ -1,0 +1,11 @@
+# Generated figures and results
+output/
+
+# MATLAB autosave and temp files
+*.asv
+*.m~
+slprj/
+
+# OS files
+.DS_Store
+Thumbs.db
